@@ -7,5 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "aiohttp>=3.12.6",
     "certifi>=2025.4.26",
+    "google-genai>=1.18.0",
     "mcp[cli]>=1.9.2",
 ]
