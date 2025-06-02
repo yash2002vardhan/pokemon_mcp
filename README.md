@@ -34,7 +34,7 @@ A Model Context Protocol (MCP) server that provides Pokemon data analysis, battl
 
 1. **Clone and install**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yash2002vardhan/pokemon_mcp
    cd pokemon_mcp
    uv sync
    ```
